@@ -1,6 +1,7 @@
 # Google-Data-Analytics-Capstone
 
 This is the capstone project offered by The Google Data Analytics Certificate I've completed in NOV 2024. 
+
 **[Report](https://docs.google.com/document/d/1S-dYJ7hYh40LVobo0xyGTe5kXdSXSUkaszwFagT8i1U/edit?usp=sharing)** - Read the process and findings here.
 
 The background of the project is as follows:
