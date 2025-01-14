@@ -10,7 +10,7 @@ Previously, Cyclistic's marketing strategy tried to build the general awareness 
 * Overall Goal: Design marketing strategies aimed at converting casual riders into annual members.
 * Business Question: "How do annual members and casual riders use Cyclistic bikes differently?"
 
-This is an exploratory data analysis project done with R studio that go through 6 Phases Of Data Analysis:
+The exploratory data analysis project is done with R studio and it goes through the 6 Phases Of Data Analysis:
 
 * Ask: Define the problem or question to be addressed.
 * Prepare: Gather and organize the data you'll need.
